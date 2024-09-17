@@ -36,4 +36,12 @@ function(test){
 }
 ```
 
+```javascript
+function(test){
+    console.log("hello mate")
+}
+```
+
+
+
 /*-`/
