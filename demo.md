@@ -42,6 +42,14 @@ function(test){
 }
 ```
 
+## tablesss
+
+|id|first_name|last_name|
+|-|-|-|
+|101|Dhruv|Shah|
+|102|Himani|Bansal|
+|103|Isha|Shah|
+|104|Sarrah|Gandhi|
 
 
 /*-`/
