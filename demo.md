@@ -44,7 +44,7 @@ function(test){
 
 ## tablesss
 
-|id|first_name|last_name|
+|Id|First_Name|Last_Name|
 |-|-|-|
 |101|Dhruv|Shah|
 |102|Himani|Bansal|
