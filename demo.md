@@ -54,7 +54,7 @@ function(test){
 
 # github personal markdown codes
 
-> [!Notes]  
+> [!Note]  
 > Description for the Notes here!
 
 /*-`/
