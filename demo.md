@@ -24,5 +24,8 @@ Here is Your list:
 
 check out my profile buddy [Portfolio](https://github.com/DhruvShah28)
 
+image of a Dog
 ![this is a image of a dog](dog.jpg)
+
+image of my life
 ![this is a image of my current situation](Disaster_Girl.jpg)
