@@ -7,6 +7,16 @@ this is an example og markdown
 
 this text is **bold**
 
+this text is **_bold and italicccccc mate_**.
 
-this text is **_bold and italicccccc mate_**
-what is *this*
+## lists 
+
+Here is Your list:
+
+1. Apple
+2. Banana
+3. Ananas
+
+- red
+- blue
+- hara
