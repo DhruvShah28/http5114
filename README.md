@@ -12,4 +12,4 @@ git --version
 
 
 ## A Small Glimpse of My Life
-<img src="coding.jpg" width="400px">
+<img src="Disaster_Girl.jpg" width="400px">
